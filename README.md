@@ -16,6 +16,7 @@ About me 🧠:
 - 🤯 I know how to exit Vim
 
 ### Languages and Tools 🛠
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="35"/>
