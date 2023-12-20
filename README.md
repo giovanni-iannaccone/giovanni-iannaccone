@@ -12,9 +12,9 @@
 - 📭 How to reach me [![Instagram Badge](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g.iovannii/)
 
 ### 0x02 | About me 🧠:
-- 🐧 Linux user
+- 🐧 Linux addicted
+- 👩‍💻 Pentester & exploit writer
 - 🤯 I know how to exit Vim
-- 👩‍💻 Ethical hacker
 - ⚙  Low level programming ejoyer
 
 ### 0x03 | Languages and Tools 🛠
