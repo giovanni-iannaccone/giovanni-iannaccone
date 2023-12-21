@@ -9,8 +9,7 @@
 - 🌱 I’m currently learning operative systems
 - 🔭 I'm currently working on hacking tools 
 - 💬 Ask me about hacking and python (pls)
-- 📭 How to reach me [![Instagram Badge](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g.iovannii/)
-
+  
 ### 0x02 | About me 🧠:
 - 🐧 Linux addicted
 - 👩‍💻 Pentester & exploit writer
@@ -39,6 +38,6 @@
 
 ### 0x04 | Stats 🔥
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/?username=giovanni-iannaccone&count_private=true&theme=tokyonight&showicons=true" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-iannaccone&langs_count=5&theme=tokyonight" height="217"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=giovanni-iannaccone&count_private=true&theme=tokyonight&showicons=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-iannaccone&langs_count=5&theme=tokyonight" height="174"/>
 </div>
