@@ -24,12 +24,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="35"/>
 </div>
