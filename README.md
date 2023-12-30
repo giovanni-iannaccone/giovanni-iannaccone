@@ -38,6 +38,6 @@
 
 ### 0x04 | Stats 🔥
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/?username=giovanni-iannaccone&count_private=true&theme=tokyonight&showicons=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-iannaccone&langs_count=5&theme=tokyonight" height="174"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=giovanni-iannaccone&count_private=true&theme=tokyonight&showicons=true" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-iannaccone&langs_count=5&theme=tokyonight" height="216"/>
 </div>
