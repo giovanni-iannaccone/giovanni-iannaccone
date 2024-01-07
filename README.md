@@ -19,13 +19,10 @@
 ### 0x03 | Languages and Tools 🛠
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35"/>
