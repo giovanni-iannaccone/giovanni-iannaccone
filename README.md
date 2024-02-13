@@ -7,14 +7,13 @@
 
 ### 0x01 | This is the magic place where i publish my projects 💻
 - 🌱 I’m currently learning operative systems
-- 🔭 I'm currently working on hacking tools 
+- 🔭 I'm currently working on my hacking skills
 - 💬 Ask me about hacking and python (pls)
   
 ### 0x02 | About me 🧠:
 - 🐧 Linux addicted
 - 👩‍💻 Pentester & exploit writer
-- 🤯 I know how to exit Vim
-- ⚙  Low level programming ejoyer
+- 🔴 Red teamer
 
 ### 0x03 | Languages and Tools 🛠
 
