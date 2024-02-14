@@ -6,9 +6,9 @@
 <br>
 
 ### 0x01 | This is the magic place where i publish my projects 💻
-- 🌱 I’m currently learning operative systems
+- 🌱 I’m currently learning LFS
 - 🔭 I'm currently working on my hacking skills
-- 💬 Ask me about hacking and python (pls)
+- 💬 Ask me about hacking and python
   
 ### 0x02 | About me 🧠:
 - 🐧 Linux addicted
