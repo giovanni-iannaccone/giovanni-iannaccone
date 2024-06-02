@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="35" />
