@@ -20,7 +20,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35"/>
