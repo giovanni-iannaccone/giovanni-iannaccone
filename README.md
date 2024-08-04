@@ -6,9 +6,9 @@
 <br>
 
 ### 0x01 | This is the magic place where i publish my projects 💻
-- 🌱 I’m currently learning LFS
+- 🌱 I’m currently learning OS dev
 - 🔭 I'm currently working on my hacking skills
-- 💬 Ask me about hacking and python
+- 💬 Ask me about hacking
   
 ### 0x02 | About me 🧠:
 - 🐧 Linux addicted
@@ -34,6 +34,6 @@
 
 ### 0x04 | Stats 🔥
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/?username=giovanni-iannaccone&count_private=true&theme=tokyonight&showicons=true" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-iannaccone&langs_count=5&theme=tokyonight" height="216"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=giovanni-iannaccone&count_private=true&theme=transparent&showicons=true" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-iannaccone&langs_count=5&theme=transparent" height="216"/>
 </div>
