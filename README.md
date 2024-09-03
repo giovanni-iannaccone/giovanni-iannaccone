@@ -7,7 +7,7 @@
 
 ### 0x01 | This is the magic place where i publish my projects 💻
 - 🌱 I’m currently learning OS dev
-- 🔭 I'm currently working on my hacking skills
+- 🔭 I'm currently working on... **too many** projects
 - 💬 Ask me about hacking
   
 ### 0x02 | About me 🧠:
