@@ -11,9 +11,9 @@
 - 💬 Ask me about hacking
   
 ### 0x02 | About me 🧠
-- 🐧 Linux addicted
-- 👨‍💻 Pentester & exploit writer
-- 🌌 Full stack developer
+- 🚀 I implement things from scratch
+- 🏴‍☠️ Pentester & exploit writer
+- 🌲 Fullstack developer
 
 ### 0x03 | Languages and Tools 🛠️
 
